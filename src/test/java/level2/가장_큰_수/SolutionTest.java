@@ -1,4 +1,4 @@
-package 정렬.가장_큰_수;
+package level2.가장_큰_수;
 
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;

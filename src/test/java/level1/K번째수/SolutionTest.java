@@ -1,4 +1,4 @@
-package 정렬.K번째수;
+package level1.K번째수;
 
 import org.junit.Assert;
 import org.junit.Test;

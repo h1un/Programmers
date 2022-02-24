@@ -1,4 +1,4 @@
-package 정렬.가장_큰_수;
+package level2.가장_큰_수;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;
